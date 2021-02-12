@@ -6,7 +6,7 @@ In this section, you create a simulation job that runs the Hello World applicati
 
 1. Sign in to the AWS RoboMaker console at [https://console\.aws\.amazon\.com/robomaker/](https://console.aws.amazon.com/robomaker/)\.
 
-1. On the AWS RoboMaker console, expand **Simulations** on the left and then choose **Simulation jobs**\.
+1. On the AWS RoboMaker console, expand **Simulation run** on the left and then choose **Simulation jobs**\.
 
 1. On the **Simulation jobs** page, choose the Hello World simulation job\. It is the simulation job with a robot application named **AWSRoboMakerHelloWorld**\. 
 
